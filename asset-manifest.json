@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-skeleton-demo/static/css/main.ca53b316.css",
+    "main.js": "/react-skeleton-demo/static/js/main.673b7ca0.js",
+    "static/js/453.5adcee2a.chunk.js": "/react-skeleton-demo/static/js/453.5adcee2a.chunk.js",
+    "index.html": "/react-skeleton-demo/index.html",
+    "main.ca53b316.css.map": "/react-skeleton-demo/static/css/main.ca53b316.css.map",
+    "main.673b7ca0.js.map": "/react-skeleton-demo/static/js/main.673b7ca0.js.map",
+    "453.5adcee2a.chunk.js.map": "/react-skeleton-demo/static/js/453.5adcee2a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca53b316.css",
+    "static/js/main.673b7ca0.js"
+  ]
+}
